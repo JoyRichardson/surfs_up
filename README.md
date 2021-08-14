@@ -9,13 +9,16 @@ Software(s):  SQLAlchemy, Flask
 ## Results
 We have provided our findings below that support our opinion that the weather is favorable year-round for the Surf n Shake Shop to be a viable venture and a sound investment.
 
-We queried the data using the extract funtion, filtered for temperatures in the months of June and December, converted the results to lists, created dataframes from the lists and calculated summary statistics as shown below:
+We queried the data using the extract funtion, filtered for temperatures in the months of June and December, converted the results to lists, created dataframes from the lists and calculated summary statistics as shown below.<br/>
+
+For June:<br/>
 ![](June_statistics.png)<br/>
+For December:<br/>
 ![](Dec_statistics.png)<br/>
-From the above, we identified the following key differences in weather between June and December.
+From the above, we identified the following key differences in weather between June and December:
 1.  The mean (average) varied less than 4 degrees.
 2.  The minimum temperatures varied 8 degrees.
-3.  THe maximum temperatures varied 6 degrees.
+3.  The maximum temperatures varied 6 degrees.
 
 ## Summary
 In addition, we performed additional queries to determine the most active weather station and gathered additional data for June and December.  These findings were in direct correlation with all stations.
